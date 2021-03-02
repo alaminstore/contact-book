@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <div className="clr"></div>
       <div className="container">
         <Contacts />
       </div>
