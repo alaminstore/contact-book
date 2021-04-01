@@ -18,10 +18,10 @@ const Contact = ({ contact }) => {
       <td>{email}</td>
       <td className="actions">
         <a href="#" className="mr-2">
-          <span class="material-icons">edit</span>
+          <span className="material-icons">edit</span>
         </a>
         <a href="#">
-          <span class="material-icons text-danger">remove</span>
+          <span className="material-icons text-danger">remove</span>
         </a>
       </td>
     </tr>
